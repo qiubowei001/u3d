@@ -1,0 +1,2260 @@
+fileFormatVersion: 2
+guid: 55e38c623d23c354ca8326ad14072762
+timeCreated: 1575458874
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dance1_0
+    21300002: dance1_1
+    21300004: dance1_2
+    21300006: dance1_3
+    21300008: dance1_4
+    21300010: dance1_5
+    21300012: dance1_6
+    21300014: dance1_7
+    21300016: dance1_8
+    21300018: dance1_9
+    21300020: dance1_10
+    21300022: dance1_11
+    21300024: dance1_12
+    21300026: dance1_13
+    21300028: dance1_14
+    21300030: dance1_15
+    21300032: dance1_16
+    21300034: dance1_17
+    21300036: dance1_18
+    21300038: dance1_19
+    21300040: dance1_20
+    21300042: dance1_21
+    21300044: dance1_22
+    21300046: dance1_23
+    21300048: dance1_24
+    21300050: dance1_25
+    21300052: dance1_26
+    21300054: dance1_27
+    21300056: dance1_28
+    21300058: dance1_29
+    21300060: dance1_30
+    21300062: dance1_31
+    21300064: dance1_32
+    21300066: dance1_33
+    21300068: dance1_34
+    21300070: dance1_35
+    21300072: dance1_36
+    21300074: dance1_37
+    21300076: dance1_38
+    21300078: dance1_39
+    21300080: dance1_40
+    21300082: dance1_41
+    21300084: dance1_42
+    21300086: dance1_43
+    21300088: dance1_44
+    21300090: dance1_45
+    21300092: dance1_46
+    21300094: dance1_47
+    21300096: dance1_48
+    21300098: dance1_49
+    21300100: dance1_50
+    21300102: dance1_51
+    21300104: dance1_52
+    21300106: dance1_53
+    21300108: dance1_54
+    21300110: dance1_55
+    21300112: dance1_56
+    21300114: dance1_57
+    21300116: dance1_58
+    21300118: dance1_59
+    21300120: dance1_60
+    21300122: dance1_61
+    21300124: dance1_62
+    21300126: dance1_63
+    21300128: dance1_64
+    21300130: dance1_65
+    21300132: dance1_66
+    21300134: dance1_67
+    21300136: dance1_68
+    21300138: dance1_69
+    21300140: dance1_70
+    21300142: dance1_71
+    21300144: dance1_72
+    21300146: dance1_73
+    21300148: dance1_74
+    21300150: dance1_75
+    21300152: dance1_76
+    21300154: dance1_77
+    21300156: dance1_78
+    21300158: dance1_79
+    21300160: dance1_80
+    21300162: dance1_81
+    21300164: dance1_82
+    21300166: dance1_83
+    21300168: dance1_84
+    21300170: dance1_85
+    21300172: dance1_86
+    21300174: dance1_87
+    21300176: dance1_88
+    21300178: dance1_89
+    21300180: dance1_90
+    21300182: dance1_91
+    21300184: dance1_92
+    21300186: dance1_93
+    21300188: dance1_94
+    21300190: dance1_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dance1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 62}
+        - {x: -24, y: 43}
+        - {x: -24, y: -4}
+        - {x: -15, y: -59}
+        - {x: -5, y: -63}
+        - {x: 16, y: -63}
+        - {x: 22, y: -61}
+        - {x: 22, y: 4}
+        - {x: 7, y: 62}
+    - name: dance1_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5400
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 62}
+        - {x: -14, y: 59}
+        - {x: -25, y: 50}
+        - {x: -25, y: -34}
+        - {x: -18, y: -63}
+        - {x: 24, y: -63}
+        - {x: 24, y: 25}
+        - {x: 3, y: 62}
+    - name: dance1_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 5400
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 62}
+        - {x: -25, y: 43}
+        - {x: -25, y: -10}
+        - {x: -23, y: -21}
+        - {x: -12, y: -57}
+        - {x: -7, y: -63}
+        - {x: 25, y: -63}
+        - {x: 25, y: 0}
+        - {x: 14, y: 62}
+    - name: dance1_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5400
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -63}
+        - {x: 25, y: -63}
+        - {x: 25, y: 50}
+        - {x: 9, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 39}
+        - {x: -25, y: -33}
+        - {x: -19, y: -62}
+        - {x: -8, y: -63}
+        - {x: 6, y: -63}
+        - {x: 7, y: -61}
+        - {x: 7, y: -56}
+        - {x: 8, y: -59}
+    - name: dance1_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5400
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -63}
+        - {x: 25, y: -63}
+        - {x: 25, y: 20}
+        - {x: 6, y: 62}
+        - {x: -19, y: 62}
+        - {x: -25, y: 41}
+        - {x: -25, y: -12}
+        - {x: -11, y: -57}
+        - {x: -4, y: -63}
+        - {x: 5, y: -63}
+        - {x: 7, y: -61}
+        - {x: 7, y: -56}
+        - {x: 8, y: -59}
+    - name: dance1_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 5400
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 39}
+        - {x: -25, y: 20}
+        - {x: -25, y: -1}
+        - {x: -19, y: -11}
+        - {x: -16, y: -10}
+        - {x: -14, y: -8}
+        - {x: -14, y: -1}
+        - {x: -14, y: -5}
+        - {x: -13, y: -9}
+        - {x: -16, y: -59}
+        - {x: -2, y: -64}
+        - {x: 7, y: -64}
+        - {x: 7, y: -53}
+        - {x: 7, y: -54}
+        - {x: 13, y: -64}
+        - {x: 26, y: -64}
+        - {x: 26, y: 37}
+        - {x: 22, y: 63}
+        - {x: -8, y: 63}
+        - {x: -11, y: 60}
+    - name: dance1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -9}
+        - {x: 16, y: -1}
+        - {x: 16, y: -3}
+        - {x: 18, y: -8}
+        - {x: 27, y: -11}
+        - {x: 27, y: 39}
+        - {x: 22, y: 63}
+        - {x: -21, y: 63}
+        - {x: -23, y: 56}
+        - {x: -23, y: -52}
+        - {x: -14, y: -63}
+        - {x: 27, y: -63}
+        - {x: 27, y: -52}
+        - {x: 17, y: -10}
+    - name: dance1_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5040
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -8}
+        - {x: 28, y: -5}
+        - {x: 28, y: 16}
+        - {x: 26, y: 29}
+        - {x: 18, y: 42}
+        - {x: 8, y: 63}
+        - {x: -6, y: 63}
+        - {x: -21, y: 46}
+        - {x: -21, y: -64}
+        - {x: 28, y: -64}
+        - {x: 28, y: -63}
+        - {x: 18, y: -15}
+        - {x: 17, y: 8}
+        - {x: 19, y: -4}
+    - name: dance1_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 5040
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 63}
+        - {x: -18, y: 46}
+        - {x: -18, y: -56}
+        - {x: -11, y: -64}
+        - {x: 31, y: -64}
+        - {x: 31, y: 38}
+        - {x: 8, y: 63}
+    - name: dance1_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5040
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 63}
+        - {x: -16, y: 49}
+        - {x: -16, y: -5}
+        - {x: -14, y: -13}
+        - {x: -9, y: -11}
+        - {x: -7, y: -9}
+        - {x: -7, y: -7}
+        - {x: -8, y: -15}
+        - {x: -16, y: -25}
+        - {x: -16, y: -44}
+        - {x: -9, y: -64}
+        - {x: 30, y: -64}
+        - {x: 31, y: -61}
+        - {x: 31, y: 51}
+        - {x: 27, y: 63}
+    - name: dance1_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5040
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 64}
+        - {x: 2, y: 64}
+        - {x: -4, y: 61}
+        - {x: -14, y: 51}
+        - {x: -14, y: -48}
+        - {x: -11, y: -64}
+        - {x: 6, y: -64}
+        - {x: 9, y: -56}
+        - {x: 11, y: -64}
+        - {x: 30, y: -64}
+        - {x: 32, y: -41}
+        - {x: 32, y: 26}
+        - {x: 15, y: 60}
+    - name: dance1_11
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 5040
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 63}
+        - {x: -11, y: -64}
+        - {x: 33, y: -64}
+        - {x: 33, y: 37}
+        - {x: 18, y: 63}
+    - name: dance1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4680
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 63}
+        - {x: 0, y: 61}
+        - {x: -9, y: 53}
+        - {x: -9, y: -64}
+        - {x: 28, y: -64}
+        - {x: 35, y: -12}
+        - {x: 35, y: 38}
+        - {x: 18, y: 63}
+    - name: dance1_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4680
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 62}
+        - {x: 19, y: 63}
+        - {x: 4, y: 63}
+        - {x: -8, y: 51}
+        - {x: -8, y: -63}
+        - {x: -3, y: -64}
+        - {x: 2, y: -64}
+        - {x: 11, y: -62}
+        - {x: 12, y: -44}
+        - {x: 12, y: -37}
+        - {x: 13, y: -36}
+        - {x: 12, y: -39}
+        - {x: 12, y: -43}
+        - {x: 11, y: -61}
+        - {x: 15, y: -64}
+        - {x: 28, y: -64}
+        - {x: 36, y: -11}
+        - {x: 36, y: 16}
+        - {x: 34, y: 36}
+    - name: dance1_14
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4680
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 63}
+        - {x: -8, y: 49}
+        - {x: -8, y: -62}
+        - {x: -2, y: -64}
+        - {x: 31, y: -64}
+        - {x: 38, y: -42}
+        - {x: 38, y: 40}
+        - {x: 32, y: 63}
+    - name: dance1_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4680
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 63}
+        - {x: -8, y: 39}
+        - {x: -8, y: -46}
+        - {x: 2, y: -64}
+        - {x: 30, y: -64}
+        - {x: 42, y: -31}
+        - {x: 42, y: 25}
+        - {x: 31, y: 63}
+    - name: dance1_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4680
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 40}
+        - {x: -9, y: 22}
+        - {x: -9, y: -9}
+        - {x: -2, y: -11}
+        - {x: 1, y: -4}
+        - {x: 1, y: -1}
+        - {x: 1, y: -8}
+        - {x: -9, y: -59}
+        - {x: -9, y: -64}
+        - {x: 39, y: -64}
+        - {x: 43, y: -60}
+        - {x: 43, y: 57}
+        - {x: 34, y: 63}
+        - {x: 9, y: 63}
+        - {x: 7, y: 61}
+    - name: dance1_17
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 4680
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 64}
+        - {x: 7, y: 60}
+        - {x: -6, y: 40}
+        - {x: -11, y: 13}
+        - {x: -11, y: -36}
+        - {x: -8, y: -57}
+        - {x: 2, y: -64}
+        - {x: 43, y: -64}
+        - {x: 43, y: 19}
+        - {x: 23, y: 64}
+    - name: dance1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 63}
+        - {x: -11, y: 50}
+        - {x: -11, y: -27}
+        - {x: -4, y: -64}
+        - {x: 42, y: -64}
+        - {x: 44, y: -30}
+        - {x: 44, y: 41}
+        - {x: 25, y: 63}
+    - name: dance1_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4320
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 63}
+        - {x: 8, y: 63}
+        - {x: -11, y: 36}
+        - {x: -11, y: -7}
+        - {x: -9, y: -15}
+        - {x: 0, y: -4}
+        - {x: 0, y: -3}
+        - {x: 0, y: -19}
+        - {x: 2, y: -64}
+        - {x: 31, y: -64}
+        - {x: 44, y: -20}
+        - {x: 44, y: 18}
+        - {x: 25, y: 57}
+    - name: dance1_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4320
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 62}
+        - {x: 22, y: 63}
+        - {x: 9, y: 63}
+        - {x: -10, y: 33}
+        - {x: -10, y: -8}
+        - {x: -7, y: -14}
+        - {x: 0, y: -6}
+        - {x: 0, y: 0}
+        - {x: 0, y: -13}
+        - {x: -10, y: -24}
+        - {x: -10, y: -48}
+        - {x: -4, y: -64}
+        - {x: 31, y: -64}
+        - {x: 45, y: -25}
+        - {x: 45, y: 19}
+    - name: dance1_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4320
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 63}
+        - {x: 5, y: 61}
+        - {x: -9, y: 48}
+        - {x: -9, y: -64}
+        - {x: 6, y: -64}
+        - {x: 10, y: -57}
+        - {x: 10, y: -44}
+        - {x: 12, y: -60}
+        - {x: 15, y: -64}
+        - {x: 36, y: -64}
+        - {x: 43, y: -15}
+        - {x: 43, y: 35}
+        - {x: 25, y: 63}
+    - name: dance1_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4320
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 64}
+        - {x: -9, y: 55}
+        - {x: -9, y: -64}
+        - {x: 3, y: -64}
+        - {x: 5, y: -59}
+        - {x: 7, y: -47}
+        - {x: 8, y: -40}
+        - {x: 8, y: -49}
+        - {x: 13, y: -64}
+        - {x: 30, y: -64}
+        - {x: 40, y: -23}
+        - {x: 40, y: 46}
+        - {x: 22, y: 64}
+    - name: dance1_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 4320
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 13}
+        - {x: 25, y: 11}
+        - {x: 28, y: 5}
+        - {x: 27, y: -2}
+        - {x: 31, y: -9}
+        - {x: 38, y: -8}
+        - {x: 38, y: 15}
+        - {x: 29, y: 64}
+        - {x: -10, y: 64}
+        - {x: -10, y: -64}
+        - {x: 29, y: -64}
+        - {x: 26, y: 7}
+        - {x: 25, y: 8}
+    - name: dance1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3960
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 8}
+        - {x: 24, y: -8}
+        - {x: 33, y: -18}
+        - {x: 33, y: 50}
+        - {x: 19, y: 64}
+        - {x: -4, y: 64}
+        - {x: -13, y: 45}
+        - {x: -13, y: -64}
+        - {x: 31, y: -64}
+        - {x: 24, y: -24}
+    - name: dance1_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3960
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 64}
+        - {x: -14, y: 47}
+        - {x: -14, y: -64}
+        - {x: 27, y: -64}
+        - {x: 31, y: -39}
+        - {x: 31, y: 43}
+        - {x: 22, y: 64}
+    - name: dance1_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3960
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -59}
+        - {x: 23, y: -53}
+        - {x: 29, y: -4}
+        - {x: 29, y: 42}
+        - {x: 14, y: 63}
+        - {x: -8, y: 63}
+        - {x: -17, y: 33}
+        - {x: -17, y: -37}
+        - {x: -15, y: -59}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 1, y: -62}
+        - {x: 10, y: -64}
+        - {x: 27, y: -64}
+    - name: dance1_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3960
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 32}
+        - {x: 18, y: 59}
+        - {x: 10, y: 63}
+        - {x: -3, y: 63}
+        - {x: -4, y: 62}
+        - {x: -18, y: 35}
+        - {x: -20, y: 30}
+        - {x: -20, y: 6}
+        - {x: -15, y: -64}
+        - {x: 0, y: -64}
+        - {x: 1, y: -54}
+        - {x: 8, y: -64}
+        - {x: 28, y: -64}
+    - name: dance1_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3960
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 63}
+        - {x: -21, y: 45}
+        - {x: -21, y: -30}
+        - {x: -18, y: -64}
+        - {x: 26, y: -64}
+        - {x: 26, y: 38}
+        - {x: 16, y: 63}
+    - name: dance1_29
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3960
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -64}
+        - {x: 24, y: -64}
+        - {x: 25, y: -63}
+        - {x: 25, y: 63}
+        - {x: -13, y: 63}
+        - {x: -22, y: 57}
+    - name: dance1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -45}
+        - {x: 0, y: -59}
+        - {x: 2, y: -64}
+        - {x: 20, y: -64}
+        - {x: 22, y: -50}
+        - {x: 22, y: 34}
+        - {x: 12, y: 63}
+        - {x: -10, y: 63}
+        - {x: -23, y: 31}
+        - {x: -23, y: -21}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -62}
+        - {x: 0, y: -55}
+        - {x: -1, y: -50}
+    - name: dance1_31
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3600
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63}
+        - {x: -16, y: 62}
+        - {x: -25, y: 28}
+        - {x: -25, y: -9}
+        - {x: -16, y: -64}
+        - {x: 12, y: -64}
+        - {x: 21, y: 3}
+        - {x: 21, y: 31}
+        - {x: 7, y: 63}
+    - name: dance1_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3600
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 63}
+        - {x: -12, y: 62}
+        - {x: -25, y: 28}
+        - {x: -25, y: -15}
+        - {x: -16, y: -64}
+        - {x: 11, y: -64}
+        - {x: 21, y: -23}
+        - {x: 21, y: 41}
+        - {x: 8, y: 63}
+    - name: dance1_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3600
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 63}
+        - {x: -9, y: 63}
+        - {x: -27, y: 33}
+        - {x: -27, y: -13}
+        - {x: -15, y: -64}
+        - {x: 12, y: -64}
+        - {x: 20, y: -25}
+        - {x: 20, y: 36}
+        - {x: 11, y: 62}
+    - name: dance1_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3600
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 63}
+        - {x: -13, y: 59}
+        - {x: -24, y: 30}
+        - {x: -24, y: -9}
+        - {x: -16, y: -64}
+        - {x: 13, y: -64}
+        - {x: 20, y: -36}
+        - {x: 20, y: 48}
+        - {x: 14, y: 63}
+    - name: dance1_35
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3600
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 63}
+        - {x: -24, y: 40}
+        - {x: -24, y: -32}
+        - {x: -17, y: -64}
+        - {x: 20, y: -64}
+        - {x: 20, y: 63}
+    - name: dance1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -64}
+        - {x: 21, y: -64}
+        - {x: 21, y: 55}
+        - {x: 10, y: 63}
+        - {x: -6, y: 63}
+        - {x: -13, y: 62}
+        - {x: -24, y: 27}
+        - {x: -24, y: 3}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -61}
+        - {x: 0, y: -56}
+        - {x: 0, y: -59}
+    - name: dance1_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3240
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -64}
+        - {x: 21, y: -24}
+        - {x: 21, y: 51}
+        - {x: 5, y: 63}
+        - {x: -16, y: 63}
+        - {x: -23, y: 50}
+        - {x: -23, y: -32}
+        - {x: -19, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -56}
+        - {x: 2, y: -59}
+        - {x: 6, y: -64}
+    - name: dance1_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3240
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 63}
+        - {x: -13, y: 63}
+        - {x: -14, y: 62}
+        - {x: -22, y: 30}
+        - {x: -22, y: -25}
+        - {x: -17, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -60}
+        - {x: 5, y: -64}
+        - {x: 21, y: -64}
+    - name: dance1_39
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3240
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 64}
+        - {x: -10, y: 64}
+        - {x: -13, y: 62}
+        - {x: -20, y: 53}
+        - {x: -20, y: -55}
+        - {x: -16, y: -64}
+        - {x: 23, y: -64}
+        - {x: 24, y: -58}
+        - {x: 24, y: 41}
+    - name: dance1_40
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -9}
+        - {x: 25, y: 41}
+        - {x: 9, y: 64}
+        - {x: -7, y: 64}
+        - {x: -18, y: 45}
+        - {x: -18, y: -40}
+        - {x: -15, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -61}
+        - {x: 6, y: -64}
+        - {x: 21, y: -64}
+    - name: dance1_41
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3240
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -31}
+        - {x: 3, y: -40}
+        - {x: 3, y: -59}
+        - {x: 7, y: -64}
+        - {x: 19, y: -64}
+        - {x: 25, y: -22}
+        - {x: 25, y: 34}
+        - {x: 14, y: 64}
+        - {x: -3, y: 64}
+        - {x: -18, y: 43}
+        - {x: -18, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -60}
+        - {x: 3, y: -43}
+        - {x: 4, y: -34}
+    - name: dance1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 62}
+        - {x: -18, y: 36}
+        - {x: -18, y: 1}
+        - {x: -15, y: -4}
+        - {x: -10, y: -7}
+        - {x: -16, y: -64}
+        - {x: 23, y: -64}
+        - {x: 26, y: -39}
+        - {x: 26, y: 34}
+        - {x: 16, y: 62}
+    - name: dance1_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2880
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 61}
+        - {x: -1, y: 61}
+        - {x: -3, y: 56}
+        - {x: -15, y: 37}
+        - {x: -16, y: 28}
+        - {x: -16, y: -27}
+        - {x: -14, y: -64}
+        - {x: 21, y: -64}
+        - {x: 26, y: 4}
+        - {x: 26, y: 40}
+        - {x: 19, y: 60}
+    - name: dance1_44
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2880
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -22}
+        - {x: 4, y: -26}
+        - {x: 4, y: -38}
+        - {x: 1, y: -56}
+        - {x: 5, y: -64}
+        - {x: 21, y: -64}
+        - {x: 27, y: -27}
+        - {x: 27, y: 43}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -15, y: -64}
+        - {x: 0, y: -64}
+        - {x: 3, y: -38}
+        - {x: 4, y: -28}
+        - {x: 4, y: -23}
+    - name: dance1_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2880
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -17}
+        - {x: 3, y: -28}
+        - {x: 3, y: -59}
+        - {x: 7, y: -64}
+        - {x: 23, y: -64}
+        - {x: 28, y: -36}
+        - {x: 28, y: 39}
+        - {x: 18, y: 62}
+        - {x: -1, y: 62}
+        - {x: -9, y: 59}
+        - {x: -14, y: 36}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 3, y: -26}
+        - {x: 3, y: -21}
+        - {x: 4, y: -20}
+    - name: dance1_46
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2880
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 62}
+        - {x: -14, y: -64}
+        - {x: 24, y: -64}
+        - {x: 28, y: -4}
+        - {x: 28, y: 40}
+        - {x: 15, y: 62}
+    - name: dance1_47
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2880
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -26}
+        - {x: 1, y: -28}
+        - {x: 2, y: -33}
+        - {x: 3, y: -60}
+        - {x: 7, y: -64}
+        - {x: 28, y: -64}
+        - {x: 28, y: 59}
+        - {x: 25, y: 62}
+        - {x: -6, y: 62}
+        - {x: -14, y: 46}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 1, y: -26}
+        - {x: 1, y: -22}
+        - {x: 2, y: -21}
+    - name: dance1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -23}
+        - {x: 2, y: -27}
+        - {x: 2, y: -29}
+        - {x: 3, y: -60}
+        - {x: 7, y: -64}
+        - {x: 20, y: -64}
+        - {x: 22, y: -55}
+        - {x: 28, y: -9}
+        - {x: 28, y: 41}
+        - {x: 13, y: 60}
+        - {x: -3, y: 60}
+        - {x: -14, y: 37}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 1, y: -59}
+        - {x: 2, y: -29}
+        - {x: 2, y: -24}
+    - name: dance1_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2520
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -2}
+        - {x: 29, y: 45}
+        - {x: 22, y: 59}
+        - {x: -14, y: 59}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 1, y: -60}
+        - {x: 6, y: -64}
+        - {x: 19, y: -64}
+    - name: dance1_50
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2520
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 60}
+        - {x: -6, y: 59}
+        - {x: -15, y: 49}
+        - {x: -15, y: -64}
+        - {x: 19, y: -64}
+        - {x: 28, y: -28}
+        - {x: 28, y: 46}
+        - {x: 17, y: 60}
+    - name: dance1_51
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2520
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -48}
+        - {x: 3, y: -48}
+        - {x: 2, y: -56}
+        - {x: 3, y: -60}
+        - {x: 7, y: -64}
+        - {x: 22, y: -64}
+        - {x: 28, y: -14}
+        - {x: 28, y: 53}
+        - {x: 20, y: 60}
+        - {x: -7, y: 60}
+        - {x: -16, y: 51}
+        - {x: -16, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -61}
+        - {x: 5, y: -40}
+        - {x: 5, y: -36}
+    - name: dance1_52
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2520
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -52}
+        - {x: 2, y: -58}
+        - {x: 6, y: -64}
+        - {x: 21, y: -64}
+        - {x: 26, y: -12}
+        - {x: 26, y: 34}
+        - {x: 19, y: 58}
+        - {x: 11, y: 61}
+        - {x: 6, y: 61}
+        - {x: 0, y: 57}
+        - {x: -13, y: 35}
+        - {x: -17, y: 22}
+        - {x: -17, y: 15}
+        - {x: -14, y: 8}
+        - {x: -15, y: -64}
+        - {x: -1, y: -64}
+        - {x: 5, y: -40}
+        - {x: 5, y: -37}
+        - {x: 5, y: -51}
+    - name: dance1_53
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2520
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -52}
+        - {x: 3, y: -59}
+        - {x: 8, y: -64}
+        - {x: 21, y: -64}
+        - {x: 25, y: -14}
+        - {x: 25, y: 41}
+        - {x: 21, y: 60}
+        - {x: 0, y: 60}
+        - {x: -19, y: 46}
+        - {x: -19, y: -23}
+        - {x: -15, y: -64}
+        - {x: 0, y: -64}
+        - {x: 5, y: -39}
+        - {x: 5, y: -36}
+        - {x: 5, y: -51}
+    - name: dance1_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 60}
+        - {x: -19, y: 43}
+        - {x: -19, y: -22}
+        - {x: -15, y: -64}
+        - {x: 23, y: -64}
+        - {x: 24, y: -51}
+        - {x: 24, y: 41}
+        - {x: 19, y: 60}
+    - name: dance1_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2160
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -64}
+        - {x: 23, y: 60}
+        - {x: 3, y: 60}
+        - {x: -5, y: 56}
+        - {x: -20, y: 43}
+        - {x: -20, y: -35}
+        - {x: -18, y: -64}
+        - {x: -1, y: -64}
+        - {x: 1, y: -62}
+        - {x: 1, y: -63}
+        - {x: 2, y: -64}
+    - name: dance1_56
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2160
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 62}
+        - {x: -20, y: 36}
+        - {x: -20, y: -64}
+        - {x: 25, y: -64}
+        - {x: 25, y: 33}
+        - {x: 15, y: 62}
+    - name: dance1_57
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2160
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 62}
+        - {x: -8, y: 59}
+        - {x: -18, y: 35}
+        - {x: -20, y: 28}
+        - {x: -20, y: -33}
+        - {x: -17, y: -64}
+        - {x: 25, y: -64}
+        - {x: 25, y: 50}
+        - {x: 11, y: 62}
+    - name: dance1_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -64}
+        - {x: 25, y: -27}
+        - {x: 25, y: 45}
+        - {x: 21, y: 61}
+        - {x: -15, y: 61}
+        - {x: -22, y: 33}
+        - {x: -22, y: -21}
+        - {x: -20, y: -33}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: -1, y: -48}
+        - {x: 4, y: -61}
+        - {x: 7, y: -64}
+    - name: dance1_59
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2160
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 61}
+        - {x: -22, y: 35}
+        - {x: -22, y: -60}
+        - {x: -19, y: -64}
+        - {x: 25, y: -64}
+        - {x: 25, y: 52}
+        - {x: 23, y: 61}
+    - name: dance1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -15}
+        - {x: 26, y: -17}
+        - {x: 27, y: -15}
+        - {x: 27, y: 27}
+        - {x: 17, y: 62}
+        - {x: -3, y: 62}
+        - {x: -8, y: 58}
+        - {x: -24, y: 32}
+        - {x: -24, y: -16}
+        - {x: -18, y: -64}
+        - {x: 19, y: -64}
+        - {x: 19, y: -58}
+        - {x: 16, y: -53}
+        - {x: 15, y: -16}
+    - name: dance1_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1800
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 5}
+        - {x: 15, y: -9}
+        - {x: 18, y: -13}
+        - {x: 27, y: -17}
+        - {x: 27, y: 23}
+        - {x: 9, y: 62}
+        - {x: -12, y: 62}
+        - {x: -25, y: 28}
+        - {x: -25, y: -19}
+        - {x: -14, y: -64}
+        - {x: 20, y: -64}
+        - {x: 16, y: -10}
+        - {x: 15, y: -9}
+    - name: dance1_62
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1800
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 63}
+        - {x: -25, y: -64}
+        - {x: 27, y: -64}
+        - {x: 27, y: 50}
+        - {x: 13, y: 63}
+    - name: dance1_63
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1800
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -23}
+        - {x: 26, y: 8}
+        - {x: 17, y: 59}
+        - {x: 8, y: 62}
+        - {x: -6, y: 62}
+        - {x: -22, y: 36}
+        - {x: -22, y: -25}
+        - {x: -18, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -59}
+        - {x: 7, y: -64}
+        - {x: 22, y: -64}
+    - name: dance1_64
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1800
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -26}
+        - {x: 7, y: -36}
+        - {x: 7, y: -46}
+        - {x: 2, y: -50}
+        - {x: 7, y: -63}
+        - {x: 10, y: -64}
+        - {x: 21, y: -64}
+        - {x: 24, y: -41}
+        - {x: 24, y: 14}
+        - {x: 12, y: 56}
+        - {x: 8, y: 60}
+        - {x: -5, y: 60}
+        - {x: -17, y: 34}
+        - {x: -17, y: -41}
+        - {x: -16, y: -64}
+        - {x: -1, y: -64}
+        - {x: -1, y: -57}
+        - {x: 5, y: -41}
+        - {x: 8, y: -34}
+    - name: dance1_65
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1800
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -64}
+        - {x: 20, y: -64}
+        - {x: 20, y: -54}
+        - {x: 23, y: -32}
+        - {x: 23, y: -11}
+        - {x: 13, y: 56}
+        - {x: 8, y: 60}
+        - {x: -1, y: 60}
+        - {x: -5, y: 58}
+        - {x: -6, y: 49}
+        - {x: -5, y: 45}
+        - {x: -14, y: 35}
+        - {x: -17, y: 26}
+        - {x: -17, y: -64}
+        - {x: -1, y: -64}
+        - {x: -2, y: -52}
+        - {x: 7, y: -36}
+        - {x: 2, y: -53}
+    - name: dance1_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -63}
+        - {x: 9, y: -64}
+        - {x: 22, y: -64}
+        - {x: 22, y: 35}
+        - {x: 10, y: 62}
+        - {x: -18, y: 62}
+        - {x: -18, y: -64}
+        - {x: -1, y: -64}
+        - {x: -3, y: -52}
+        - {x: 4, y: -33}
+        - {x: 1, y: -49}
+    - name: dance1_67
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1440
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 34}
+        - {x: 11, y: 63}
+        - {x: -8, y: 63}
+        - {x: -18, y: 14}
+        - {x: -18, y: -42}
+        - {x: -15, y: -64}
+        - {x: 21, y: -64}
+    - name: dance1_68
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1440
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 64}
+        - {x: -7, y: 63}
+        - {x: -6, y: 52}
+        - {x: -18, y: 17}
+        - {x: -18, y: -60}
+        - {x: -17, y: -64}
+        - {x: 24, y: -64}
+        - {x: 26, y: -19}
+        - {x: 26, y: 24}
+        - {x: 11, y: 64}
+    - name: dance1_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1440
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 22}
+        - {x: 10, y: 64}
+        - {x: -5, y: 64}
+        - {x: -16, y: 37}
+        - {x: -16, y: -64}
+        - {x: 20, y: -64}
+        - {x: 20, y: -59}
+        - {x: 28, y: 2}
+    - name: dance1_70
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1440
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -50}
+        - {x: 0, y: -59}
+        - {x: 6, y: -64}
+        - {x: 25, y: -64}
+        - {x: 28, y: -50}
+        - {x: 28, y: 35}
+        - {x: 13, y: 63}
+        - {x: -8, y: 63}
+        - {x: -10, y: 62}
+        - {x: -16, y: -15}
+        - {x: -16, y: -64}
+        - {x: -2, y: -64}
+        - {x: -2, y: -47}
+        - {x: 4, y: -40}
+        - {x: 3, y: -41}
+    - name: dance1_71
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1440
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -64}
+        - {x: 27, y: -64}
+        - {x: 28, y: -59}
+        - {x: 28, y: 42}
+        - {x: 13, y: 62}
+        - {x: -4, y: 62}
+        - {x: -10, y: 59}
+        - {x: -14, y: 34}
+        - {x: -15, y: 14}
+        - {x: -15, y: -64}
+        - {x: -2, y: -64}
+        - {x: -1, y: -60}
+        - {x: -2, y: -50}
+        - {x: 3, y: -63}
+    - name: dance1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 63}
+        - {x: -17, y: -64}
+        - {x: 30, y: -64}
+        - {x: 35, y: -44}
+        - {x: 35, y: 39}
+        - {x: 13, y: 63}
+    - name: dance1_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1080
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -44}
+        - {x: 37, y: 31}
+        - {x: 10, y: 64}
+        - {x: -4, y: 64}
+        - {x: -9, y: 63}
+        - {x: -20, y: 50}
+        - {x: -20, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -60}
+        - {x: 7, y: -64}
+        - {x: 32, y: -64}
+    - name: dance1_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1080
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -16}
+        - {x: 13, y: -29}
+        - {x: 11, y: -37}
+        - {x: 5, y: -48}
+        - {x: 7, y: -63}
+        - {x: 8, y: -64}
+        - {x: 34, y: -64}
+        - {x: 34, y: 39}
+        - {x: 9, y: 63}
+        - {x: -11, y: 63}
+        - {x: -24, y: 50}
+        - {x: -24, y: -21}
+        - {x: -16, y: -64}
+        - {x: 0, y: -64}
+        - {x: 2, y: -52}
+        - {x: 10, y: -38}
+        - {x: 12, y: -33}
+    - name: dance1_75
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1080
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 62}
+        - {x: -24, y: 53}
+        - {x: -24, y: -64}
+        - {x: 28, y: -64}
+        - {x: 28, y: 31}
+        - {x: 14, y: 62}
+    - name: dance1_76
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 62}
+        - {x: -11, y: 62}
+        - {x: -22, y: 45}
+        - {x: -22, y: -35}
+        - {x: -19, y: -64}
+        - {x: 24, y: -64}
+        - {x: 24, y: 12}
+        - {x: 17, y: 61}
+    - name: dance1_77
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1080
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 62}
+        - {x: -22, y: 53}
+        - {x: -22, y: -55}
+        - {x: -21, y: -64}
+        - {x: 22, y: -64}
+        - {x: 22, y: 47}
+        - {x: 9, y: 62}
+    - name: dance1_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -64}
+        - {x: 21, y: -64}
+        - {x: 21, y: 45}
+        - {x: 11, y: 62}
+        - {x: -6, y: 62}
+        - {x: -20, y: 29}
+        - {x: -20, y: -22}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -62}
+        - {x: 0, y: -49}
+        - {x: 8, y: -61}
+    - name: dance1_79
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 720
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 43}
+        - {x: 14, y: 63}
+        - {x: -3, y: 63}
+        - {x: -8, y: 60}
+        - {x: -20, y: 29}
+        - {x: -20, y: -7}
+        - {x: -15, y: -64}
+        - {x: 24, y: -64}
+    - name: dance1_80
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 720
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 62}
+        - {x: 7, y: 63}
+        - {x: -5, y: 63}
+        - {x: -19, y: 28}
+        - {x: -19, y: -27}
+        - {x: -16, y: -64}
+        - {x: 24, y: -64}
+        - {x: 25, y: -40}
+        - {x: 25, y: 43}
+    - name: dance1_81
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 720
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -64}
+        - {x: 26, y: -14}
+        - {x: 26, y: 36}
+        - {x: 12, y: 63}
+        - {x: -5, y: 63}
+        - {x: -18, y: 46}
+        - {x: -18, y: -64}
+        - {x: -1, y: -64}
+        - {x: -1, y: -51}
+        - {x: 3, y: -59}
+        - {x: 9, y: -64}
+    - name: dance1_82
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 62}
+        - {x: -7, y: 60}
+        - {x: -18, y: 42}
+        - {x: -18, y: -58}
+        - {x: -17, y: -64}
+        - {x: 25, y: -64}
+        - {x: 25, y: 38}
+        - {x: 11, y: 62}
+    - name: dance1_83
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 720
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -64}
+        - {x: 25, y: -64}
+        - {x: 25, y: 59}
+        - {x: 18, y: 62}
+        - {x: 1, y: 62}
+        - {x: -6, y: 59}
+        - {x: -18, y: 35}
+        - {x: -18, y: -60}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 1, y: -37}
+        - {x: 5, y: -58}
+        - {x: 7, y: -63}
+    - name: dance1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 62}
+        - {x: -19, y: 47}
+        - {x: -19, y: -64}
+        - {x: 22, y: -64}
+        - {x: 25, y: -62}
+        - {x: 25, y: 45}
+        - {x: 18, y: 62}
+    - name: dance1_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 360
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -28}
+        - {x: 27, y: 33}
+        - {x: 15, y: 63}
+        - {x: -3, y: 63}
+        - {x: -22, y: 45}
+        - {x: -22, y: -36}
+        - {x: -16, y: -64}
+        - {x: -1, y: -64}
+        - {x: 1, y: -57}
+        - {x: 10, y: -64}
+        - {x: 22, y: -64}
+    - name: dance1_86
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 360
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 63}
+        - {x: -24, y: 59}
+        - {x: -24, y: -58}
+        - {x: -23, y: -64}
+        - {x: 25, y: -64}
+        - {x: 26, y: -61}
+        - {x: 26, y: 44}
+        - {x: 13, y: 63}
+    - name: dance1_87
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 360
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -64}
+        - {x: 28, y: -40}
+        - {x: 28, y: 5}
+        - {x: 18, y: 57}
+        - {x: 10, y: 62}
+        - {x: -1, y: 62}
+        - {x: -22, y: 35}
+        - {x: -22, y: -8}
+        - {x: -16, y: -58}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 9, y: -33}
+        - {x: 6, y: -53}
+        - {x: 13, y: -64}
+    - name: dance1_88
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 61}
+        - {x: -20, y: 40}
+        - {x: -20, y: -15}
+        - {x: -15, y: -64}
+        - {x: 28, y: -64}
+        - {x: 28, y: 32}
+        - {x: 13, y: 61}
+    - name: dance1_89
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 360
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 61}
+        - {x: -1, y: 61}
+        - {x: -14, y: 42}
+        - {x: -14, y: -64}
+        - {x: 25, y: -64}
+        - {x: 27, y: -61}
+        - {x: 27, y: 32}
+        - {x: 17, y: 58}
+    - name: dance1_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -64}
+        - {x: 26, y: -64}
+        - {x: 26, y: 38}
+        - {x: 21, y: 62}
+        - {x: -5, y: 62}
+        - {x: -15, y: 39}
+    - name: dance1_91
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -64}
+        - {x: 27, y: -64}
+        - {x: 27, y: 45}
+        - {x: 17, y: 61}
+        - {x: 14, y: 64}
+        - {x: -5, y: 64}
+        - {x: -15, y: 35}
+        - {x: -15, y: -56}
+        - {x: -14, y: -64}
+        - {x: 0, y: -64}
+        - {x: 4, y: -30}
+        - {x: 5, y: -53}
+        - {x: 7, y: -57}
+    - name: dance1_92
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 64}
+        - {x: -9, y: 64}
+        - {x: -14, y: 22}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: -1, y: -56}
+        - {x: 5, y: -64}
+        - {x: 30, y: -64}
+    - name: dance1_93
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 37}
+        - {x: 17, y: 64}
+        - {x: -1, y: 64}
+        - {x: -6, y: 60}
+        - {x: -14, y: 16}
+        - {x: -14, y: -64}
+        - {x: 21, y: -64}
+        - {x: 22, y: -62}
+        - {x: 23, y: -25}
+        - {x: 30, y: 1}
+    - name: dance1_94
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 63}
+        - {x: -13, y: 36}
+        - {x: -14, y: -57}
+        - {x: -14, y: -64}
+        - {x: 24, y: -64}
+        - {x: 33, y: -11}
+        - {x: 33, y: 41}
+        - {x: 16, y: 63}
+    - name: dance1_95
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 270
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -18}
+        - {x: 34, y: 35}
+        - {x: 21, y: 58}
+        - {x: 13, y: 62}
+        - {x: -3, y: 62}
+        - {x: -14, y: 41}
+        - {x: -14, y: -64}
+        - {x: -1, y: -64}
+        - {x: 0, y: -61}
+        - {x: 7, y: -64}
+        - {x: 27, y: -64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

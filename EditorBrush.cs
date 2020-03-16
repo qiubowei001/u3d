@@ -7,6 +7,8 @@ public class EditorBrush : MonoBehaviour {
 	public EditorGOL editor_scrp;
 	Mesh mymesh;
 	public bool bReset;
+	public bool bClearWhileReset;
+
 	List<Vector3> listChoosed;
 	public int MatchTargetWeightMask;
 	// Use this for initialization
@@ -38,7 +40,10 @@ public class EditorBrush : MonoBehaviour {
 		}
 
 		if (bReset) {
-			ClearListChoosed ();
+			if (bClearWhileReset) {
+				ClearListChoosed ();
+			}
+
 			mymesh = this.gameObject.GetComponent<MeshFilter> ().mesh;
 			var bounds = mymesh.bounds;
 
